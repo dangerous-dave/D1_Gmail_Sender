@@ -3,7 +3,7 @@
 
 #pragma region Globals
 const char* ssid = "The Burrow 2.4";                           // WIFI network name
-const char* password = "PerdidoKey13";                       // WIFI network password
+const char* password = "WifiKey";                       // WIFI network password
 uint8_t connection_state = 0;                    // Connected to WIFI or not
 uint16_t reconnect_interval = 10000;             // If not connected wait time to try again
 #pragma endregion Globals
