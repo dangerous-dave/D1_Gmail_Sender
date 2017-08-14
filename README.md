@@ -2,7 +2,7 @@
 
 [Based on ESP8266 by Boris Shobat](http://www.instructables.com/id/ESP8266-GMail-Sender/)
 
-Set up App Password for signing into Gmail account when using 2-Step-Verification.
+Set up App Password for signing into Gmail account when using 2-Step-Verification:
 https://support.google.com/accounts/answer/185833?hl=en
 
-8/12/17 - Successfully sent email
+- 8/12/17 - Successfully sent email
