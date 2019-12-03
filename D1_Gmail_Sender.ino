@@ -63,7 +63,7 @@ void setup()
 
     Gsender *gsender = Gsender::Instance();    // Getting pointer to class instance
     String subject = "Test Email - Buns";
-    if(gsender->Subject(subject)->Send("davidmusser@gmail.com", "If you're an evil witch, I will punch you for fun!")) {
+    if(gsender->Subject(subject)->Send("emailaddress@gmail.com", "If you're an evil witch, I will punch you for fun!")) {
         Serial.println("Message send.");
     } else {
         Serial.print("Error sending message: ");
